@@ -1,6 +1,6 @@
 # React Posts (JSONPlaceholder)
 
-Basit bir React uygulaması. `https://jsonplaceholder.typicode.com/posts` ve `https://jsonplaceholder.typicode.com/users` uç noktalarından verileri çeker, postları ilgili kullanıcı bilgisiyle birlikte listeler.
+Basit bir React post çekme uygulaması. `https://jsonplaceholder.typicode.com/posts` ve `https://jsonplaceholder.typicode.com/users` linklerinden verileri çeker, postları ilgili kullanıcı bilgisiyle birlikte listeler.
 
 ## Nasıl Çalıştırılır
 
@@ -32,4 +32,4 @@ npm run build
 
 ## Lisans
 
-Kişisel/öğrenme amaçlı örnek proje.
+Kişisel amaçlı örnek proje.
