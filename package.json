@@ -1,5 +1,6 @@
 {
   "name": "react-posts",
+  "description": "JSONPlaceholder posts + users basit React uygulaması",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
