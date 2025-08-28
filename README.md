@@ -33,3 +33,4 @@ npm run build
 ## Lisans
 
 Kişisel amaçlı örnek proje.
+
