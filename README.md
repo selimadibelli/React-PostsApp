@@ -1,4 +1,4 @@
-# React Posts (JSONPlaceholder)
+# React PostsApp (JSONPlaceholder)
 
 Basit bir React post çekme uygulaması. `https://jsonplaceholder.typicode.com/posts` ve `https://jsonplaceholder.typicode.com/users` linklerinden verileri çeker, postları ilgili kullanıcı bilgisiyle birlikte listeler.
 
@@ -9,7 +9,7 @@ npm install
 npm start
 ```
 
-Geliştirme sunucusu açıldığında tarayıcıdan `http://localhost:3000` adresine gidin.
+Geliştirme sunucusu açıldığında tarayıcıdan `http://localhost:4321` adresine gidin.
 
 ## Üretim Derlemesi
 
